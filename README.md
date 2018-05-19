@@ -7,7 +7,7 @@
 
 It is a client that communicates with the Spark client using the Smack API and Openfire server written in Java.
 
-[This project article](https://yusufcakal.gitbooks.io/openfire-ve-smack-api-kullanimi/content/) 
+[This project article - turkish](https://yusufcakal.gitbooks.io/openfire-ve-smack-api-kullanimi/content/) 
 
 ### Thanks
 * [Ignite Realtime](https://github.com/igniterealtime)
